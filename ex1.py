@@ -4,5 +4,7 @@ Spyder Editor
 
 Este é um arquivo de script temporário.
 """
-r = float(input())
-pi = 3.14
+A=int(input())
+B=int(input())
+X=A+B
+print("X =", X)
